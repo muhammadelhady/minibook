@@ -1,11 +1,8 @@
 \contentsline {chapter}{Preface}{2}
-\contentsline {chapter}{\numberline {1}what is Cloud Computing}{7}
-\contentsline {section}{\numberline {1.1}Cloud Computing}{7}
-\contentsline {section}{\numberline {1.2}understanding of cloud computing }{7}
-\contentsline {chapter}{\numberline {2}Why Cloud Computing }{9}
-\contentsline {chapter}{\numberline {3}Moving to the Cloud}{11}
-\contentsline {chapter}{\numberline {4}Cloud Computing Arc}{13}
-\contentsline {section}{\numberline {4.1}Fundmentals cloud arc}{13}
-\contentsline {section}{\numberline {4.2}Advanced cloud arc}{13}
-\contentsline {chapter}{\numberline {5}security of cloud computing}{15}
-\contentsline {chapter}{\numberline {6}History of cloud computing}{17}
+\contentsline {chapter}{\numberline {1}Why Cloud Computing }{7}
+\contentsline {chapter}{\numberline {2}Moving to the Cloud}{9}
+\contentsline {chapter}{\numberline {3}Cloud Computing Arc}{11}
+\contentsline {section}{\numberline {3.1}Fundmentals cloud arc}{11}
+\contentsline {section}{\numberline {3.2}Advanced cloud arc}{11}
+\contentsline {chapter}{\numberline {4}security of cloud computing}{13}
+\contentsline {chapter}{\numberline {5}History of cloud computing}{15}
